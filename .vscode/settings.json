@@ -1,0 +1,20 @@
+{
+  "editor.inlineSuggest.enabled": true,
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "on",
+    "strings": "on"
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.snippetSuggestions": "inline",
+  "editor.tabCompletion": "on",
+  "notebook.editorOptionsCustomizations": {
+    "editor.inlineSuggest.enabled": true,
+    "editor.quickSuggestions": {
+      "other": "on",
+      "comments": "on",
+      "strings": "on"
+    }
+  }
+}
